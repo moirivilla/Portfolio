@@ -1,9 +1,9 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://moirivilla.vercel.app/" target="_blank">soumyajit.tech</a>
+  <a href="https://moirivilla.vercel.app/" target="_blank"></a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="/src/Assets/logo.png" />
+  <img  src="../src/Assets/logo.png" />
 </div>
 
 <br/>
@@ -16,8 +16,6 @@
     🔹
     <a href="https://github.com/moirivilla/Portfolio">Request Feature</a>
 </h3>
-
-## TL;DR
 
 
 ## Built With
