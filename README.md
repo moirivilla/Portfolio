@@ -18,8 +18,6 @@
     <a href="https://github.com/moirivilla/Portfolio">Request Feature</a>
 </h3>
 
-## TL;DR
-
 
 ## Built With
 
