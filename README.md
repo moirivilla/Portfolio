@@ -10,14 +10,6 @@
 
 
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/moirivilla/Portfolio">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/moirivilla/Portfolio">Request Feature</a>
-</h3>
-
-
 
 ## Built With
 
