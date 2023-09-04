@@ -3,7 +3,7 @@
   <a href="https://portafolio-monica.vercel.app/" target="_blank"></a>
 </h2>
 <div align="center">
-  <img  src="./portfolioMonica/src/Assets/logo.png" />
+  <img  src="./src/Assets/logo.png" />
 </div>
 
 <br/>
