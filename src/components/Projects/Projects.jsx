@@ -61,8 +61,8 @@ description="Final project for HACK A BOSS - 2023: Web where people who need a d
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
-              title="Calculator"
-              description="This app combines the power of Node.js on the backend and the flexibility of React on the frontend to give you a fast and accurate computing experience. Perform fundamental math operations like addition, subtraction, multiplication, and division with ease. This calculator is built on a robust backend architecture that processes your calculation requests and provides you with the results in real time."
+              title= "Calculator"
+           description= "Discover this online calculator developed with the latest React Vite technology! This calculator offers a fast and accurate calculation experience right in your browser. Perform basic math operations with ease, from addition and subtraction to multiplication and division, all in real time. The calculator features an intuitive and attractive user interface that allows you to perform calculations efficiently and without complications."
               ghLink="https://github.com/moirivilla"
               
             />
